@@ -1,0 +1,10 @@
+TRACE: 2023/01/22 11:48:22 main.go:18: Loging initialised
+TRACE: 2023/01/22 11:48:22 main.go:25: Application started 
+TRACE: 2023/01/22 11:48:30 main.go:18: Loging initialised
+TRACE: 2023/01/22 11:48:30 main.go:25: Application started 
+TRACE: 2023/01/22 11:48:32 main.go:18: Loging initialised
+TRACE: 2023/01/22 11:48:32 main.go:25: Application started 
+TRACE: 2023/01/22 11:52:39 main.go:18: Loging initialised
+TRACE: 2023/01/22 11:52:39 main.go:25: Application started 
+TRACE: 2023/01/22 11:52:41 main.go:18: Loging initialised
+TRACE: 2023/01/22 11:52:41 main.go:25: Application started 
